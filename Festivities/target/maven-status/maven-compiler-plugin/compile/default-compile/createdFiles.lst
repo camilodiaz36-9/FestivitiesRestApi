@@ -1,0 +1,3 @@
+com\prodigious\festivities\repository\FestivitiesRepository.class
+com\prodigious\festivities\controller\FestivitiesController.class
+com\prodigious\festivities\domain\Festivity.class
